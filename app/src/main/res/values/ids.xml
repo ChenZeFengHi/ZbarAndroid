@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Messages IDs -->
+    <item name="auto_focus" type="id" />
+    <item name="decode" type="id" />
+    <item name="decode_failed" type="id" />
+    <!--扫描成功-->
+    <item name="decode_succeeded" type="id" />
+    <!--扫描失败-->
+    <item name="encode_failed" type="id" />
+    <item name="quit" type="id" />
+    <!--重新启动 可连续扫描-->
+    <item name="restart_preview" type="id" />
+</resources>
